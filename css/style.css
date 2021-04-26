@@ -50,12 +50,14 @@ table th{
   width: 300px;
 }
 
-#Blackpink{
+img.bts{
+  max-width: 100%;
   width: 46px;
   height: 44px;
 }
 
-#BTS{
+img.blackpink{
+  max-width: 100%;
   width: 46px
   height: 44px;
 }
