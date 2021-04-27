@@ -21,22 +21,9 @@ h1 {
   text-align: left;
 }
 
-
-nav {
-  background: #F276A0;
-  color: Black;
-  font-family: Lao MN;
-  font-size: 40px;
-}
-
 header {
   padding: 20px;
   margin: 0 auto;
-}
-
-footer {
-  font-family: Futura;
-  font-size: 25px;
 }
 
 table {
