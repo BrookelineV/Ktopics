@@ -2,7 +2,7 @@
 @import "componets/header.css";
 @import "forms/forms.css";
 body {
-  background: White;
+  background: #6a5acd;
   color: Black;
   font-family: Helvetica, Arial;
   font-size: 27px;
@@ -51,5 +51,29 @@ img.blackpink{
 
 @media screen and (max-width: 480px){
 
+}
+
+ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #6a5acd;
+}
+
+li{
+  float: left;
+}
+
+li a {
+  padding: 14px 16px; 
+  text-align: center;
+  color: Black;
+  display: inline;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #6a5acd;
 }
 
