@@ -2,7 +2,7 @@
 @import "componets/header.css";
 @import "forms/forms.css";
 body {
-  background: #6a5acd,White;
+  background: White;
   color: Black;
   font-family: Helvetica, Arial;
   font-size: 27px;
